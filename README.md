@@ -1,2 +1,2 @@
 # Text-Adventures-W3
-My fist adventure through text
+My first adventure through text
